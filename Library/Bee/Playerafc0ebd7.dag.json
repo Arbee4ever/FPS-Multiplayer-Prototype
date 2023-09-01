@@ -544,7 +544,7 @@
       "DisplayName": "Writing boot.config_16d3.info",
       "ActionType": "WriteFile",
       "PayloadOffset": 83,
-      "PayloadLength": 16025,
+      "PayloadLength": 16249,
       "PayloadDebugContentSnippet": "{\"System.Object\":null,\"Bee.Tun",
       "Inputs": [],
       "Outputs": [
@@ -649,22 +649,22 @@
         "/home/arbee/Unity/Hub/Editor/2022.3.8f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/mono/Managed/UnityEngine.WindModule.dll",
         "/home/arbee/Unity/Hub/Editor/2022.3.8f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/mono/Managed/UnityEngine.XRModule.dll",
         "/home/arbee/Unity/Hub/Editor/2022.3.8f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/mono/Managed/UnityEngine.dll",
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.AI.Navigation.dll",
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonRealtime.dll",
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonChat.dll",
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.dll",
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Demos.dll",
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Utilities.dll",
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
-        "/home/arbee/FPS Multiplayer Prototype/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll",
-        "/home/arbee/FPS Multiplayer Prototype/Library/PackageCache/com.unity.visualscripting@1.9.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
-        "/home/arbee/FPS Multiplayer Prototype/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll",
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.AI.Navigation.dll",
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonRealtime.dll",
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonChat.dll",
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.dll",
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Demos.dll",
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Utilities.dll",
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll",
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/PackageCache/com.unity.visualscripting@1.9.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll",
         "/home/arbee/Unity/Hub/Editor/2022.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-linux/Facades/netstandard.dll",
         "/home/arbee/Unity/Hub/Editor/2022.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-linux/Mono.Security.dll",
         "/home/arbee/Unity/Hub/Editor/2022.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-linux/System.ComponentModel.Composition.dll",
@@ -1553,7 +1553,7 @@
       "DisplayName": "Copying Assembly-CSharp.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll"
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll"
       ],
       "Outputs": [
         "Build_Dev/FPS Prototype_Data/Managed/Assembly-CSharp.dll"
@@ -1565,7 +1565,7 @@
       "DisplayName": "Copying Unity.AI.Navigation.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.AI.Navigation.dll"
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.AI.Navigation.dll"
       ],
       "Outputs": [
         "Build_Dev/FPS Prototype_Data/Managed/Unity.AI.Navigation.dll"
@@ -1577,7 +1577,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Core.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll"
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll"
       ],
       "Outputs": [
         "Build_Dev/FPS Prototype_Data/Managed/Unity.VisualScripting.Core.dll"
@@ -1589,7 +1589,7 @@
       "DisplayName": "Copying UnityEngine.UI.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll"
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll"
       ],
       "Outputs": [
         "Build_Dev/FPS Prototype_Data/Managed/UnityEngine.UI.dll"
@@ -1601,7 +1601,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Flow.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll"
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll"
       ],
       "Outputs": [
         "Build_Dev/FPS Prototype_Data/Managed/Unity.VisualScripting.Flow.dll"
@@ -1613,7 +1613,7 @@
       "DisplayName": "Copying PhotonRealtime.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonRealtime.dll"
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonRealtime.dll"
       ],
       "Outputs": [
         "Build_Dev/FPS Prototype_Data/Managed/PhotonRealtime.dll"
@@ -1625,7 +1625,7 @@
       "DisplayName": "Copying PhotonChat.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonChat.dll"
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonChat.dll"
       ],
       "Outputs": [
         "Build_Dev/FPS Prototype_Data/Managed/PhotonChat.dll"
@@ -1637,7 +1637,7 @@
       "DisplayName": "Copying Unity.Timeline.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll"
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll"
       ],
       "Outputs": [
         "Build_Dev/FPS Prototype_Data/Managed/Unity.Timeline.dll"
@@ -1649,7 +1649,7 @@
       "DisplayName": "Copying PhotonUnityNetworking.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.dll"
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.dll"
       ],
       "Outputs": [
         "Build_Dev/FPS Prototype_Data/Managed/PhotonUnityNetworking.dll"
@@ -1661,7 +1661,7 @@
       "DisplayName": "Copying PhotonUnityNetworking.Demos.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Demos.dll"
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Demos.dll"
       ],
       "Outputs": [
         "Build_Dev/FPS Prototype_Data/Managed/PhotonUnityNetworking.Demos.dll"
@@ -1673,7 +1673,7 @@
       "DisplayName": "Copying PhotonUnityNetworking.Utilities.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Utilities.dll"
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Utilities.dll"
       ],
       "Outputs": [
         "Build_Dev/FPS Prototype_Data/Managed/PhotonUnityNetworking.Utilities.dll"
@@ -1685,7 +1685,7 @@
       "DisplayName": "Copying Unity.TextMeshPro.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll"
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll"
       ],
       "Outputs": [
         "Build_Dev/FPS Prototype_Data/Managed/Unity.TextMeshPro.dll"
@@ -1697,7 +1697,7 @@
       "DisplayName": "Copying Unity.VisualScripting.State.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll"
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll"
       ],
       "Outputs": [
         "Build_Dev/FPS Prototype_Data/Managed/Unity.VisualScripting.State.dll"
@@ -1709,7 +1709,7 @@
       "DisplayName": "Copying websocket-sharp.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "/home/arbee/FPS Multiplayer Prototype/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll"
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.dll"
       ],
       "Outputs": [
         "Build_Dev/FPS Prototype_Data/Managed/websocket-sharp.dll"
@@ -1721,7 +1721,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Antlr3.Runtime.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "/home/arbee/FPS Multiplayer Prototype/Library/PackageCache/com.unity.visualscripting@1.9.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/PackageCache/com.unity.visualscripting@1.9.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
       ],
       "Outputs": [
         "Build_Dev/FPS Prototype_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll"
@@ -1733,7 +1733,7 @@
       "DisplayName": "Copying Photon3Unity3D.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "/home/arbee/FPS Multiplayer Prototype/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll"
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.dll"
       ],
       "Outputs": [
         "Build_Dev/FPS Prototype_Data/Managed/Photon3Unity3D.dll"
@@ -2789,7 +2789,7 @@
       "DisplayName": "Copying Assembly-CSharp.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.pdb"
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.pdb"
       ],
       "Outputs": [
         "Build_Dev/FPS Prototype_Data/Managed/Assembly-CSharp.pdb"
@@ -2801,7 +2801,7 @@
       "DisplayName": "Copying Unity.AI.Navigation.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.AI.Navigation.pdb"
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.AI.Navigation.pdb"
       ],
       "Outputs": [
         "Build_Dev/FPS Prototype_Data/Managed/Unity.AI.Navigation.pdb"
@@ -2813,7 +2813,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Core.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.pdb"
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.pdb"
       ],
       "Outputs": [
         "Build_Dev/FPS Prototype_Data/Managed/Unity.VisualScripting.Core.pdb"
@@ -2825,7 +2825,7 @@
       "DisplayName": "Copying UnityEngine.UI.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.pdb"
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.pdb"
       ],
       "Outputs": [
         "Build_Dev/FPS Prototype_Data/Managed/UnityEngine.UI.pdb"
@@ -2837,7 +2837,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Flow.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.pdb"
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.pdb"
       ],
       "Outputs": [
         "Build_Dev/FPS Prototype_Data/Managed/Unity.VisualScripting.Flow.pdb"
@@ -2849,7 +2849,7 @@
       "DisplayName": "Copying PhotonRealtime.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonRealtime.pdb"
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonRealtime.pdb"
       ],
       "Outputs": [
         "Build_Dev/FPS Prototype_Data/Managed/PhotonRealtime.pdb"
@@ -2861,7 +2861,7 @@
       "DisplayName": "Copying PhotonChat.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonChat.pdb"
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonChat.pdb"
       ],
       "Outputs": [
         "Build_Dev/FPS Prototype_Data/Managed/PhotonChat.pdb"
@@ -2873,7 +2873,7 @@
       "DisplayName": "Copying Unity.Timeline.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.pdb"
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.pdb"
       ],
       "Outputs": [
         "Build_Dev/FPS Prototype_Data/Managed/Unity.Timeline.pdb"
@@ -2885,7 +2885,7 @@
       "DisplayName": "Copying PhotonUnityNetworking.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.pdb"
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.pdb"
       ],
       "Outputs": [
         "Build_Dev/FPS Prototype_Data/Managed/PhotonUnityNetworking.pdb"
@@ -2897,7 +2897,7 @@
       "DisplayName": "Copying PhotonUnityNetworking.Demos.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Demos.pdb"
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Demos.pdb"
       ],
       "Outputs": [
         "Build_Dev/FPS Prototype_Data/Managed/PhotonUnityNetworking.Demos.pdb"
@@ -2909,7 +2909,7 @@
       "DisplayName": "Copying PhotonUnityNetworking.Utilities.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Utilities.pdb"
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Utilities.pdb"
       ],
       "Outputs": [
         "Build_Dev/FPS Prototype_Data/Managed/PhotonUnityNetworking.Utilities.pdb"
@@ -2921,7 +2921,7 @@
       "DisplayName": "Copying Unity.TextMeshPro.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.pdb"
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.pdb"
       ],
       "Outputs": [
         "Build_Dev/FPS Prototype_Data/Managed/Unity.TextMeshPro.pdb"
@@ -2933,7 +2933,7 @@
       "DisplayName": "Copying Unity.VisualScripting.State.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.pdb"
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.pdb"
       ],
       "Outputs": [
         "Build_Dev/FPS Prototype_Data/Managed/Unity.VisualScripting.State.pdb"
@@ -2945,7 +2945,7 @@
       "DisplayName": "Copying Photon3Unity3D.pdb",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "/home/arbee/FPS Multiplayer Prototype/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.pdb"
+        "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.pdb"
       ],
       "Outputs": [
         "Build_Dev/FPS Prototype_Data/Managed/Photon3Unity3D.pdb"
@@ -2956,7 +2956,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/LinuxPlayerBuildProgram/Data/app.info",
       "DisplayName": "Writing app.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 16199,
+      "PayloadOffset": 16423,
       "PayloadLength": 40,
       "PayloadDebugContentSnippet": "DefaultCompany\nFPS Multiplayer",
       "Inputs": [],
@@ -3679,54 +3679,6 @@
   ],
   "StatSignatures": [
     {
-      "File": "/home/arbee/FPS Multiplayer Prototype/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.pdb"
-    },
-    {
-      "File": "/home/arbee/FPS Multiplayer Prototype/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.pdb"
-    },
-    {
-      "File": "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.pdb"
-    },
-    {
-      "File": "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonChat.pdb"
-    },
-    {
-      "File": "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonRealtime.pdb"
-    },
-    {
-      "File": "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Demos.pdb"
-    },
-    {
-      "File": "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Utilities.pdb"
-    },
-    {
-      "File": "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.pdb"
-    },
-    {
-      "File": "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.AI.Navigation.pdb"
-    },
-    {
-      "File": "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.pdb"
-    },
-    {
-      "File": "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.pdb"
-    },
-    {
-      "File": "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.pdb"
-    },
-    {
-      "File": "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.pdb"
-    },
-    {
-      "File": "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.pdb"
-    },
-    {
-      "File": "/home/arbee/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.pdb"
-    },
-    {
-      "File": "/home/arbee/FPS Multiplayer Prototype/Library/PackageCache/com.unity.visualscripting@1.9.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.pdb"
-    },
-    {
       "File": "/home/arbee/Unity/Hub/Editor/2022.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-linux/Facades/netstandard.pdb"
     },
     {
@@ -3997,6 +3949,54 @@
       "File": "/home/arbee/Unity/Hub/Editor/2022.3.8f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/Variations/mono/Managed/UnityEngine.pdb"
     },
     {
+      "File": "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Assets/Photon/PhotonLibs/WebSocket/websocket-sharp.pdb"
+    },
+    {
+      "File": "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Assets/Photon/PhotonLibs/netstandard2.0/Photon3Unity3D.pdb"
+    },
+    {
+      "File": "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.pdb"
+    },
+    {
+      "File": "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonChat.pdb"
+    },
+    {
+      "File": "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonRealtime.pdb"
+    },
+    {
+      "File": "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Demos.pdb"
+    },
+    {
+      "File": "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.Utilities.pdb"
+    },
+    {
+      "File": "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/PhotonUnityNetworking.pdb"
+    },
+    {
+      "File": "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.AI.Navigation.pdb"
+    },
+    {
+      "File": "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.pdb"
+    },
+    {
+      "File": "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.pdb"
+    },
+    {
+      "File": "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.pdb"
+    },
+    {
+      "File": "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.pdb"
+    },
+    {
+      "File": "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.pdb"
+    },
+    {
+      "File": "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.pdb"
+    },
+    {
+      "File": "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/PackageCache/com.unity.visualscripting@1.9.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.pdb"
+    },
+    {
       "File": "Library/Bee/Playerafc0ebd7-inputdata.json"
     },
     {
@@ -4070,6 +4070,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/Playerafc0ebd7.dag.json",
-  "PayloadsFile": "/home/arbee/FPS Multiplayer Prototype/Library/Bee/Playerafc0ebd7.dag.payloads",
+  "PayloadsFile": "/home/arbee/UnityProjects/FPS Multiplayer Prototype/Library/Bee/Playerafc0ebd7.dag.payloads",
   "RelativePathToRoot": "../.."
 }
